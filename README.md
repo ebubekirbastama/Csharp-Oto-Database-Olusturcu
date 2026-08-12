@@ -176,6 +176,6 @@ Bu repository içerisinde `LICENSE` dosyası bulunmaktadır. Kullanım ve dağı
 
 ## 👨‍💻 Geliştirici
 
-**Ebubekir Baştama**
+**Ebubekir Bastama**
 
 GitHub: https://github.com/ebubekirbastama
